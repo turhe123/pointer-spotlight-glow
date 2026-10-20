@@ -1,5 +1,7 @@
 # PointerSpotlightGlow
 
+**🌐 Website:** [turhe123.github.io/pointer-spotlight-glow](https://turhe123.github.io/pointer-spotlight-glow/)
+
 Spotlight your pointer with a dimmed screen, highlight ring and click ripples for demos and screen shares.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -27,7 +29,21 @@ Presenter cursor tools are a well-established category in *Presentation & Cursor
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-spotlight-settings.png" alt="Spotlight settings tab with dimming, radius and fade sliders and a live preview" width="720"></p>
+
+<p align="center"><em>Spotlight settings with an animated live preview of the dimmed screen and the bright circle that follows the pointer.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-menu.png" alt="PointerSpotlightGlow menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu toggles Highlight, Click Ripples and Spotlight, and has a global shortcut to turn all effects off.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-highlight-settings.png" alt="Highlight settings tab with a yellow color well and sliders" width="560"></p>
+
+<p align="center"><em>Pointer highlight settings for color, opacity, size and fade, with a live preview.</em></p>
+
+<p align="center"><img src="docs/screenshots/04-welcome.png" alt="Welcome window explaining the Input Monitoring permission" width="560"></p>
+
+<p align="center"><em>The first-launch welcome window explains the optional Input Monitoring permission that click ripples need.</em></p>
 
 ## Install
 

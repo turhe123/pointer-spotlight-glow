@@ -1,0 +1,6 @@
+[
+  {"file":"01-spotlight-settings.png","caption":"Spotlight settings with an animated live preview of the dimmed screen and the bright circle that follows the pointer.","alt":"Spotlight settings tab with dimming, radius and fade sliders and a live preview"},
+  {"file":"02-menu.png","caption":"The menu bar menu toggles Highlight, Click Ripples and Spotlight, and has a global shortcut to turn all effects off.","alt":"PointerSpotlightGlow menu bar menu"},
+  {"file":"03-highlight-settings.png","caption":"Pointer highlight settings for color, opacity, size and fade, with a live preview.","alt":"Highlight settings tab with a yellow color well and sliders"},
+  {"file":"04-welcome.png","caption":"The first-launch welcome window explains the optional Input Monitoring permission that click ripples need.","alt":"Welcome window explaining the Input Monitoring permission"}
+]

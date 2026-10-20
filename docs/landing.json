@@ -1,0 +1,60 @@
+{
+  "seo_title": "Pointer spotlight and click highlighter for macOS",
+  "seo_description": "Free, open-source macOS app that highlights your pointer, shows click ripples and dims the screen around a spotlight for demos and screen shares.",
+  "hero_title_line1": "Show them where",
+  "hero_title_accent": "you are pointing.",
+  "hero_sub": "Highlight your pointer, ripple every click and dim the rest of the screen for demos and screen shares. Press ⌃⌥⌘S for the spotlight or ⌃⌥⌘H to toggle all effects.",
+  "features_title": "Three effects, one menu bar app.",
+  "features_sub": "Each effect works on its own, and every color, size and fade is adjustable with a live preview.",
+  "features": [
+    {
+      "icon": "cursor",
+      "title": "Pointer highlight",
+      "desc": "A soft colored circle follows the cursor. Choose its color, opacity, size from 20 to 200, and fade."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Click ripples",
+      "desc": "An expanding ring marks each left click, a different color marks right clicks, and a press indicator shows while the button is held."
+    },
+    {
+      "icon": "eye",
+      "title": "Screen spotlight",
+      "desc": "Dim the whole screen and leave a bright circle around the pointer. Resize it with [ and ] or Option plus the scroll wheel."
+    },
+    {
+      "icon": "keyboard",
+      "title": "Global hotkeys",
+      "desc": "Toggle all effects or just the spotlight from any app. Both shortcuts can be re-recorded in Settings."
+    },
+    {
+      "icon": "display",
+      "title": "Multi-display and recording aware",
+      "desc": "Every screen gets its own click-through overlay. Effects show up in recordings by default, and an optional toggle hides them from capture."
+    },
+    {
+      "icon": "sliders",
+      "title": "Light, native, adjustable",
+      "desc": "Built with SwiftUI and AppKit, with Reduce Motion support and optional launch at login. No network calls or third-party dependencies."
+    }
+  ],
+  "permissions_step": "Optional: for click ripples and Option-scroll spotlight resizing, allow PointerSpotlightGlow in System Settings → Privacy & Security → Input Monitoring (or Accessibility).",
+  "faq": [
+    {
+      "q": "Is PointerSpotlightGlow really free and open source?",
+      "a": "Yes. It is released under the MIT license and the full source is on GitHub. There are no ads, no analytics and no paid tier. If it helps you, you can support development on Ko-fi."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "Click ripples and Option-scroll spotlight resizing need Input Monitoring (or Accessibility), because the app listens for mouse buttons and scrolling. It does not read keystrokes. Without the permission, the pointer highlight and spotlight still work."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Only on your Mac. Your preferences are saved locally in UserDefaults. The app makes no network calls and does not capture your screen."
+    },
+    {
+      "q": "Why isn't the app notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."
+    }
+  ]
+}
